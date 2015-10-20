@@ -1,0 +1,14 @@
+Michael Ungerer
+hw3
+to compile:
+make
+
+
+to run:
+main
+
+
+
+The program runs 100X times unidrectional dijkstras 1000 nodes, at density .1 then again at .01. I made use of both vectors and arrays, and I put all of the functions used within the Graph class so that they could have access to the variables used within each. 
+
+I learned about how to attach functions to a class, and how this can be beneficial, and how private variables can be accessed only by the functions attached to the class. I learned about dijkstra's and graph traversals with vectors. I learned that this class can suddly have a much more difficult program than the last two with less time do complete. Finally I learned more about manipulating values in a class. 
